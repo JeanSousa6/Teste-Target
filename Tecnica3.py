@@ -1,9 +1,10 @@
 import json
 
+diasDoMes = 30 
+
 with open("dados.json") as dadosJson:
     dados = json.load(dadosJson)
 
-diasDoMes = 30 
 
 def media(dados):
     diasUteis = 0
