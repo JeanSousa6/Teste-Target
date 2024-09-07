@@ -1,6 +1,6 @@
 # TesteTarget
 
 
-## Resposta do teste da Target, processo via Gupy. 
+## Resposta do teste da Target Sistemas, processo via Gupy. 
 
-* Soluções realizadas em Python
+* Cada técnica foi proposta pelo processo seletivo descrito no site da vaga. 
